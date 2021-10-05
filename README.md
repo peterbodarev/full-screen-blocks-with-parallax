@@ -6,9 +6,7 @@ Site with full screen blocks with parallax (using image background with position
 
 ## Examples 👁️
 
-<h2 align="center">
-  <img src="examples/screenshot.png" alt="example" width="100%" />
-</h2>
+![screenshot](https://user-images.githubusercontent.com/91592743/135982268-f01264df-c099-46a3-8786-f65b985d1a41.png)
 
 https://user-images.githubusercontent.com/91592743/135981393-08e5ab6f-e9e8-44ea-942f-59eb7fdb184d.mp4
 
