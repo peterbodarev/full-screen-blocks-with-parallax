@@ -7,10 +7,10 @@ Site with full screen blocks with parallax (using image background with position
 ## Examples 👁️
 
 <h2 align="center">
-  <video controls style="max-width:80vw;max-height:80vh"
-  poster='examples/screenshot.webp'  src='examples/video.webm'>
-	</video>
+  <img src="examples/screenshot.png" alt="example" width="100%" />
 </h2>
+
+https://user-images.githubusercontent.com/91592743/135981393-08e5ab6f-e9e8-44ea-942f-59eb7fdb184d.mp4
 
 ---
 
